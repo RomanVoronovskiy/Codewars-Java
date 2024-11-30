@@ -16,6 +16,7 @@ public class Main {
 //        System.out.println("nameMe.getFullName() = " + nameMe.getFullName());
         System.out.println(pythagoreanTriple(new int[]{13, 12, 5}));
         System.out.println(sortOne(Arrays.asList("Algebra", "History", "Geometry", "english")));
+        add commit 3
     }
 
     public static int pythagoreanTriple(int[] triple) {
