@@ -21,6 +21,8 @@ public class Main {
     public static int pythagoreanTriple(int[] triple) {
         Arrays.sort(triple);
         return triple[0] * triple[0] + triple[1] * triple[1] == triple[2] * triple[2] ? 1 : 0;
+
+        add commit2
     }
 
     public static List<String> sortOne(List<String> textbooks) {
