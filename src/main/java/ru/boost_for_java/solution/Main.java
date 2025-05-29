@@ -102,6 +102,10 @@ public class Main {
         }
         return null;
     }
+    public static String hello(){
+        System.out.println("qwe");
+        return "qwe";
+    }
 
     private static Map<Integer, String> generateInitMap() {
         String data = """
